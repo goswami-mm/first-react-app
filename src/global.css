@@ -1,0 +1,10 @@
+h1 {
+    color: BLUE;
+    background-color: red;
+}
+
+.box {
+    height: 120px;
+    width: 300px;
+    background-color: blueviolet;
+}
